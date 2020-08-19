@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lotos4u/react-hw-01-components/static/css/main.bc89c3f6.chunk.css",
-    "main.js": "/lotos4u/react-hw-01-components/static/js/main.c1d618a2.chunk.js",
-    "main.js.map": "/lotos4u/react-hw-01-components/static/js/main.c1d618a2.chunk.js.map",
-    "runtime-main.js": "/lotos4u/react-hw-01-components/static/js/runtime-main.fdbfdb32.js",
-    "runtime-main.js.map": "/lotos4u/react-hw-01-components/static/js/runtime-main.fdbfdb32.js.map",
-    "static/js/2.73e4fcd9.chunk.js": "/lotos4u/react-hw-01-components/static/js/2.73e4fcd9.chunk.js",
-    "static/js/2.73e4fcd9.chunk.js.map": "/lotos4u/react-hw-01-components/static/js/2.73e4fcd9.chunk.js.map",
-    "index.html": "/lotos4u/react-hw-01-components/index.html",
-    "precache-manifest.309098b57da3867c95cb4f5688cbb0e1.js": "/lotos4u/react-hw-01-components/precache-manifest.309098b57da3867c95cb4f5688cbb0e1.js",
-    "service-worker.js": "/lotos4u/react-hw-01-components/service-worker.js",
-    "static/css/main.bc89c3f6.chunk.css.map": "/lotos4u/react-hw-01-components/static/css/main.bc89c3f6.chunk.css.map",
-    "static/js/2.73e4fcd9.chunk.js.LICENSE.txt": "/lotos4u/react-hw-01-components/static/js/2.73e4fcd9.chunk.js.LICENSE.txt"
+    "main.css": "/react-hw-01-components/static/css/main.bc89c3f6.chunk.css",
+    "main.js": "/react-hw-01-components/static/js/main.e0fbc4d9.chunk.js",
+    "main.js.map": "/react-hw-01-components/static/js/main.e0fbc4d9.chunk.js.map",
+    "runtime-main.js": "/react-hw-01-components/static/js/runtime-main.459b7fff.js",
+    "runtime-main.js.map": "/react-hw-01-components/static/js/runtime-main.459b7fff.js.map",
+    "static/js/2.73e4fcd9.chunk.js": "/react-hw-01-components/static/js/2.73e4fcd9.chunk.js",
+    "static/js/2.73e4fcd9.chunk.js.map": "/react-hw-01-components/static/js/2.73e4fcd9.chunk.js.map",
+    "index.html": "/react-hw-01-components/index.html",
+    "precache-manifest.e60c29dc8719e57242c3328b8c18de99.js": "/react-hw-01-components/precache-manifest.e60c29dc8719e57242c3328b8c18de99.js",
+    "service-worker.js": "/react-hw-01-components/service-worker.js",
+    "static/css/main.bc89c3f6.chunk.css.map": "/react-hw-01-components/static/css/main.bc89c3f6.chunk.css.map",
+    "static/js/2.73e4fcd9.chunk.js.LICENSE.txt": "/react-hw-01-components/static/js/2.73e4fcd9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fdbfdb32.js",
+    "static/js/runtime-main.459b7fff.js",
     "static/js/2.73e4fcd9.chunk.js",
     "static/css/main.bc89c3f6.chunk.css",
-    "static/js/main.c1d618a2.chunk.js"
+    "static/js/main.e0fbc4d9.chunk.js"
   ]
 }
