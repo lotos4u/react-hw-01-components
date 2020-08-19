@@ -1,0 +1,19 @@
+.application {
+  display: flex;
+  height: 100vh;
+
+  .navigation {
+    flex-direction: column;
+    overflow: auto;
+    padding: 20px 30px 10px 10px;
+    background: #fafafa;
+    border-right: 1px solid rgba(0, 0, 0, .07);
+    position: relative;
+    max-width: 300px;
+
+    a {
+      display: block;
+    }
+  }
+
+}
