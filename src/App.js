@@ -35,7 +35,7 @@ function App() {
                     />
                 </div>
                 <div id="statistics" className="task-container">
-                    <Statistics title="Upload stats" stats={state.statistics} />,
+                    <Statistics title="Upload stats" stats={state.statistics} />
                 </div>
                 <div id="friends" className="task-container">
                     <FriendList friends={state.friends} />
