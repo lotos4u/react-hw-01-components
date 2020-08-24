@@ -4,8 +4,9 @@ import styles from './styles.module.scss'
 
 const Statistics = (props) => (
     <section className={styles.statistics}>
+        {props.title &&
         <h2 className={styles.title}>{props.title}</h2>
-
+        }
         <ul className={styles.statList}>
             {props.stats.map(item =>
                 <li className={styles.item} key={item.id}>
