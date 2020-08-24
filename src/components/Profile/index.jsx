@@ -41,7 +41,7 @@ Profile.propTypes = {
         followers: PropTypes.number,
         views: PropTypes.number,
         likes: PropTypes.number,
-    })
+    }).isRequired,
 }
 
 Profile.defaultProps = {}
