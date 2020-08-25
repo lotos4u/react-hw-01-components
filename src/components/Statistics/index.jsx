@@ -20,8 +20,8 @@ class Statistics extends Component {
         const bgColor = this.getRandomRgb();
         const color = this.getInverseRgb(bgColor);
         return {
-            'color': 'rgb(' + color.r + ', ' + color.g + ', ' + color.b + ')',
-            'background-color': 'rgb(' + bgColor.r + ', ' + bgColor.g + ', ' + bgColor.b + ')',
+            'color': `rgb(${color.r}, ${color.g}, ${color.b})`,
+            'backgroundColor': `rgb(${bgColor.r}, ${bgColor.g}, ${bgColor.b})`,
         };
     }
 

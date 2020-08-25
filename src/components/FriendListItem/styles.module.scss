@@ -1,0 +1,33 @@
+.item {
+  background-color: #ffffff;
+  width: 400px;
+  height: 115px;
+  margin: 10px 0;
+  box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+
+  .status {
+    &::before {
+      content: "•";
+      color: red;
+      font-size: 70px;
+      margin: 10px;
+    }
+
+    &.online {
+      &::before {
+        color: green;
+      }
+    }
+  }
+
+  .avatar {
+    border-radius: 5px;
+    height: 48px;
+  }
+
+  .name {
+    padding-left: 10px;
+  }
+}
