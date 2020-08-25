@@ -41,7 +41,7 @@ function App() {
                     <FriendList friends={state.friends} />
                 </div>
                 <div id="transactions" className="task-container">
-                    <TransactionHistory items={state.transactions} />,
+                    <TransactionHistory items={state.transactions} />
                 </div>
             </div>
         </div>
